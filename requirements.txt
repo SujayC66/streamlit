@@ -1,0 +1,6 @@
+flask
+flask-socketio
+langchain-groq
+python-socketio
+websocket-client
+streamlit
